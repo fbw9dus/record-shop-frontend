@@ -42,10 +42,8 @@ export default withAuth( function(props){
 
     const submit = async e => {
       try {
-        const result = await window.Axios.post( '/users/login', {
-          email: field.email,
-          password: hashPassword(field.password)
-        });
+        const result = await window.Axios
+        .get(`/auth/local/callback?username=${field.email}&password=${hashPassword(field.password)}` );
         // das auth token steht in dem http header x-auth
         // (siehe backend/controller/users.js:loginController)
         const token = result.headers['x-auth'];
@@ -91,6 +89,7 @@ export default withAuth( function(props){
           label="Passwort Zeigen"
         />
         <br/>
+        <Button style={{float:'right'}} variant="contained" color="secondary" onClick={e=>window.location = 'http://localhost:3001/auth/github'}>GitHub</Button>
         <Button style={{float:'right'}} variant="contained" color="primary" onClick={submit}>Anmelden</Button>
         <br/>
         Noch kein Kunde? <Link to='/register'>Registrieren!</Link><br/>
