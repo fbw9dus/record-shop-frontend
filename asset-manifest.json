@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/galymax.github.io/e04-record-shop-frontend-galymax/static/css/main.ac0c4aaf.chunk.css",
+    "main.js": "/galymax.github.io/e04-record-shop-frontend-galymax/static/js/main.15524b7e.chunk.js",
+    "main.js.map": "/galymax.github.io/e04-record-shop-frontend-galymax/static/js/main.15524b7e.chunk.js.map",
+    "runtime-main.js": "/galymax.github.io/e04-record-shop-frontend-galymax/static/js/runtime-main.32e1ef86.js",
+    "runtime-main.js.map": "/galymax.github.io/e04-record-shop-frontend-galymax/static/js/runtime-main.32e1ef86.js.map",
+    "static/css/2.69121389.chunk.css": "/galymax.github.io/e04-record-shop-frontend-galymax/static/css/2.69121389.chunk.css",
+    "static/js/2.7241a1e1.chunk.js": "/galymax.github.io/e04-record-shop-frontend-galymax/static/js/2.7241a1e1.chunk.js",
+    "static/js/2.7241a1e1.chunk.js.map": "/galymax.github.io/e04-record-shop-frontend-galymax/static/js/2.7241a1e1.chunk.js.map",
+    "index.html": "/galymax.github.io/e04-record-shop-frontend-galymax/index.html",
+    "precache-manifest.ab3f984985ce5401035e26a2ae448c18.js": "/galymax.github.io/e04-record-shop-frontend-galymax/precache-manifest.ab3f984985ce5401035e26a2ae448c18.js",
+    "service-worker.js": "/galymax.github.io/e04-record-shop-frontend-galymax/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/galymax.github.io/e04-record-shop-frontend-galymax/static/css/2.69121389.chunk.css.map",
+    "static/css/main.ac0c4aaf.chunk.css.map": "/galymax.github.io/e04-record-shop-frontend-galymax/static/css/main.ac0c4aaf.chunk.css.map",
+    "static/js/2.7241a1e1.chunk.js.LICENSE.txt": "/galymax.github.io/e04-record-shop-frontend-galymax/static/js/2.7241a1e1.chunk.js.LICENSE.txt",
+    "static/media/gif.gif": "/galymax.github.io/e04-record-shop-frontend-galymax/static/media/gif.aa941076.gif",
+    "static/media/App.css": "/galymax.github.io/e04-record-shop-frontend-galymax/static/media/vinyl.97aa3996.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32e1ef86.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.7241a1e1.chunk.js",
+    "static/css/main.ac0c4aaf.chunk.css",
+    "static/js/main.15524b7e.chunk.js"
+  ]
+}
